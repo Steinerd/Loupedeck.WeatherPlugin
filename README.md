@@ -1,3 +1,11 @@
+# THIS PROJECT HAS BEEN ARCHIVED
+
+I no longer have the interest or hardware to test/develop this plugin. 
+
+I invite you to use https://github.com/yanus/LoupedeckWeatherPlugin instead
+
+
+----
 # Weather Loupedeck Plugin
 [![License](http://img.shields.io/:license-MIT-blue.svg?style=flat)](LICENSE)
 ![forks](https://img.shields.io/github/forks/Steinerd/Loupedeck.WeatherPlugin?style=flat)
